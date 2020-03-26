@@ -53,15 +53,15 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
     rgb = [k for k in (np.random.rand(3))]
     ```
 * Pandas
-* Dask
+* [Dask](https://dask.org/)
 
 # Data Visualization
-* Matplotlib
-* Seaborn
-* Altair
-* Plotly
-* Pygal
-* Bokeh
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Altair](https://altair-viz.github.io/)
+* [Plotly](https://plotly.com/python/)
+* [Pygal](http://www.pygal.org/en/stable/)
+* [Bokeh](https://docs.bokeh.org/en/latest/index.html)
 
 # Machine Learning
 * Scikit Learn
@@ -84,9 +84,22 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 
 # Executable Creation
 ## Windows
+* [PyZ](https://github.com/BTOdell/pyz)
+* [Py2app](https://py2app.readthedocs.io/en/latest/) 
+* Py2exe
 * [PyInstaller](https://pyinstaller.readthedocs.io/en/stable/installation.html)
+
+# Tests & Logs & Debug
+* [Behave](https://behave.readthedocs.io/en/latest/)
+* [Logging](https://docs.python.org/3/library/logging.html) 
+
+# Templates
+* [CookieCutter](https://cookiecutter.readthedocs.io/en/1.7.0/)
 
 # Python for Finance & Trading
 * [QuantEcon](https://quantecon.org/)
 * Quantopian
 * [NumFocus](https://numfocus.org/)
+
+# Podcasts
+* DataFramed

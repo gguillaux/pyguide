@@ -23,8 +23,14 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 ```
 
 ## Package Managers
+* [Pip](https://pip.pypa.io/en/stable/)
+* [Conda](https://docs.conda.io/en/latest/)
+* [Poetry](https://python-poetry.org/)
 
 ## Environment & Version Managers
+* PyEnv
+* Virtualenv
+* PipEnv
 
 # Notebooks
 * Jupyter Notebook
@@ -36,6 +42,7 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 * Pycharm
 * Visual Studio Code
 * Spyder
+* [RStudio](https://solutions.rstudio.com/python/overview/)
 * [repl.it (online)](https://repl.it/)
 
 

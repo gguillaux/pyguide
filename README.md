@@ -28,20 +28,20 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 * [Poetry](https://python-poetry.org/)
 
 ## Environment & Version Managers
-* PyEnv
-* Virtualenv
-* PipEnv
+* [PyEnv](https://github.com/pyenv/pyenv)
+* [Virtualenv](https://virtualenv.pypa.io/en/latest/)
+* [PipEnv](https://github.com/pypa/pipenv)
 
 # Notebooks
-* Jupyter Notebook
-* Jupyter Lab
-* Google Colab
-* Azure Notebook
+* [Jupyter Notebook](https://jupyter.org/install.html)
+* [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/)
+* [Google Colab (online)](https://colab.research.google.com/)
+* [Azure Notebook (online)](https://notebooks.azure.com/)
 
 # IDEs & Editors
-* Pycharm
-* Visual Studio Code
-* Spyder
+* [Pycharm](https://www.jetbrains.com/pycharm/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Spyder](https://www.spyder-ide.org/)
 * [RStudio](https://solutions.rstudio.com/python/overview/)
 * [repl.it (online)](https://repl.it/)
 
@@ -53,6 +53,7 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
     rgb = [k for k in (np.random.rand(3))]
     ```
 * Pandas
+* Dask
 
 # Data Visualization
 * Matplotlib
@@ -74,13 +75,18 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 
 # Desktop  Development
 * PyQt5
-* Tkintr
+* Tkinter
 * Kivy
 
 # Web Development
-* Flask
+* [Flask](https://palletsprojects.com/p/flask/)
 * Django
 
 # Executable Creation
 ## Windows
-* PyInstaller
+* [PyInstaller](https://pyinstaller.readthedocs.io/en/stable/installation.html)
+
+# Python for Finance & Trading
+* [QuantEcon](https://quantecon.org/)
+* Quantopian
+* [NumFocus](https://numfocus.org/)

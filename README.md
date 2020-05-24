@@ -110,6 +110,7 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 https://nvie.com/posts/a-successful-git-branching-model/
 ## Testing
 https://www.fullstackpython.com/integration-testing.html
+https://speakerdeck.com/pycon2014/getting-started-testing-by-ned-batchelder
 
 ## Guide for code layout
 https://www.python.org/dev/peps/pep-0008/?#code-lay-out

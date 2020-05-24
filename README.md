@@ -106,6 +106,9 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 
 ```markdown
 # to add
+## Version Control
+https://nvie.com/posts/a-successful-git-branching-model/
+
 ## Guide for code layout
 https://www.python.org/dev/peps/pep-0008/?#code-lay-out
 ## How to write Readmes

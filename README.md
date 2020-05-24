@@ -47,12 +47,12 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 
 
 # Data Science
-* Numpy
+* [Numpy](https://numpy.org/)
     ```python
     # generate random rgb color
     rgb = [k for k in (np.random.rand(3))]
     ```
-* Pandas
+* [Pandas](https://pandas.pydata.org/)
 * [Dask](https://dask.org/)
 
 # Data Visualization
@@ -64,8 +64,8 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 * [Bokeh](https://docs.bokeh.org/en/latest/index.html)
 
 # Machine Learning
-* Scikit Learn
-* PyTorch
+* [Scikit-Learn](https://scikit-learn.org/stable/)
+* [PyTorch](https://pytorch.org/)
 * TensorFlow
 
 # Web Scrapping
@@ -103,3 +103,14 @@ pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org jinja2
 
 # Podcasts
 * DataFramed
+
+```markdown
+# to add
+## Guide for code layout
+https://www.python.org/dev/peps/pep-0008/?#code-lay-out
+## How to write Readmes
+https://classroom.udacity.com/courses/ud777
+## Docstrings documentation
+https://www.python.org/dev/peps/pep-0257/
+https://numpydoc.readthedocs.io/en/latest/format.html
+```
